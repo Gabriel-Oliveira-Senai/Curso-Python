@@ -1,0 +1,3 @@
+Lista de Desejos:
+1. Aprender Python
+2. Criar um jogo
